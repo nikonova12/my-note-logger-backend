@@ -18,8 +18,6 @@ cd my-note-logger-backend
 ## Usage
 Refer to the documentation for detailed usage instructions.
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
